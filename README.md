@@ -3,14 +3,18 @@
 This project showcases a **dual image transition effect on scroll**.  
 As the user scrolls, the **first image shrinks** while the **second image grows**, creating a smooth and dynamic transition.
 
+# 🖥️ Live Demo
+🔗 [Preview Project](dual-image-scroll.netlify.app)
+
 ---
 
 ## 📂 Project Structure
-.
-├── index.html # Main HTML file
-├── style.css # Styles for layout and effects
-├── script.js # JavaScript scroll logic
-└── images/ # Folder containing images
+
+.  
+├── index.html # Main HTML file  
+├── style.css # Styles for layout and effects  
+├── script.js # JavaScript scroll logic  
+└── images/   # Folder containing images  
 
 ---
 
