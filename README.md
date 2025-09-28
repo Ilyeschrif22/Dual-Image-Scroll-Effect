@@ -1,0 +1,21 @@
+# 🌌 Dual Image Scroll Effect
+
+This project showcases a **dual image transition effect on scroll**.  
+As the user scrolls, the **first image shrinks** while the **second image grows**, creating a smooth and dynamic transition.
+
+---
+
+## 📂 Project Structure
+.
+├── index.html # Main HTML file
+├── style.css # Styles for layout and effects
+├── script.js # JavaScript scroll logic
+└── images/ # Folder containing images
+
+---
+
+## 🚀 How It Works
+1. The page contains two stacked images (`img1` and `img2`).  
+2. When the user scrolls, JavaScript calculates the scroll progress.  
+3. `img1` gradually shrinks while `img2` grows.  
+4. This creates a **seamless scroll-based image transition** effect.  
