@@ -1,4 +1,4 @@
-here fixit,# 🌌 Dual Image Scroll Effect
+# 🌌 Dual Image Scroll Effect
 
 This project showcases a **dual image transition effect on scroll**.  
 As the user scrolls, the **first image shrinks** while the **second image grows**, creating a smooth and dynamic transition.
