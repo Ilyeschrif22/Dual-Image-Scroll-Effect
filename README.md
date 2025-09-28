@@ -8,13 +8,13 @@ As the user scrolls, the **first image shrinks** while the **second image grows*
 
 ---
 
-## 📂 Project Structure
+## 📂Project Structure
+.
+├── index.html
+├── style.css
+├── script.js
+└── images/
 
-.  
-├── index.html 
-├── style.css 
-├── script.js 
-└── images/   
 ---
 
 ## 🚀 How It Works
