@@ -11,11 +11,10 @@ As the user scrolls, the **first image shrinks** while the **second image grows*
 ## 📂 Project Structure
 
 .  
-├── index.html # Main HTML file  
-├── style.css # Styles for layout and effects  
-├── script.js # JavaScript scroll logic  
-└── images/   # Folder containing images  
-
+├── index.html 
+├── style.css 
+├── script.js 
+└── images/   
 ---
 
 ## 🚀 How It Works
